@@ -4,3 +4,4 @@ pca
 surnname
 city
 birthday
+picture
