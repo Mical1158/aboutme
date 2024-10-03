@@ -17,3 +17,4 @@ sqq
 eras
 pokl
 polk
+lopas
