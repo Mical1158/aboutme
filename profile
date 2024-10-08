@@ -20,3 +20,4 @@ polk
 lopas
 pol
 poljk
+polsa
