@@ -21,3 +21,4 @@ lopas
 pol
 poljk
 polsa
+kuls
