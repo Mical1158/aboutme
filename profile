@@ -22,3 +22,4 @@ pol
 poljk
 polsa
 kuls
+hukl
