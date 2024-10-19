@@ -23,3 +23,4 @@ poljk
 polsa
 kuls
 hukl
+kolps
