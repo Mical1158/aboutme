@@ -26,3 +26,4 @@ hukl
 kolps
 aq
 gag
+gtoú
