@@ -14,11 +14,5 @@ qwe
 sqe
 adf
 wqe
-qw
-qr
-sqe
-vqe
-vessq
-veq
-kolpaqw
-grtw
+lpop
+rtw
