@@ -3,15 +3,7 @@ name
 pca
 surnname
 city
-birthday
-picture
-sqq
-qwqw
-sac
-ert
-vq
-vdddcqe
-sqs
+vas
 sqqs
 das
 vas
