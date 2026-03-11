@@ -10,3 +10,4 @@ dfa
 va
 vas
 vascv
+vaww
