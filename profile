@@ -3,16 +3,6 @@ name
 pca
 surnname
 city
-vas
-sqqs
-das
-dfa
-va
-vas
-vascv
-vaww
-vasw
-bdfb
-vaww
+vasvasv
 vassca
 sasas
